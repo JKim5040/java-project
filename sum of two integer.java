@@ -1,6 +1,6 @@
 /*
-Name: Mwanzia Mutisya
-Reg No: CT101/G/19165/23
+Name: Johana Kimutai Kiprono
+Reg No: CT101/G/19005/23
 Date: 23/01/2025
 Sum of two values
 Assignment 3
